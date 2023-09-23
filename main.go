@@ -60,20 +60,19 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai"            // ahsai tts
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse"          // 服务器监控
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai"   // ahsai tts
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse" // 服务器监控
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/autowithdraw"     // 触发者撤回时也自动撤回
-	
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix"         // 合成emoji
-	
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/inject"           // 注入指令
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/autowithdraw" // 触发者撤回时也自动撤回
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/translation"      // 翻译
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix" // 合成emoji
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/warframeapi"      // warframeAPI插件
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wenben"           // 文本指令大全
-	
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/inject" // 注入指令
+
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/translation" // 翻译
+
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/warframeapi" // warframeAPI插件
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wenben"      // 文本指令大全
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"           // 鬼东西
 
@@ -95,11 +94,7 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-
-
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
-
-
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
